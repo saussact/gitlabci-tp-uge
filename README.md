@@ -37,7 +37,7 @@ https://docs.gitlab.com/ee/ci/quick_start/
 
 ## Les Services :
 
-Modifiez votre gitlabci.yml pour mettre en place des services. comme ci dessous :
+Modifier votre gitlabci.yml pour mettre en place des services. comme ci dessous :
 
 https://docs.gitlab.com/ee/ci/services/
 
